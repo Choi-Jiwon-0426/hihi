@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">cal_recycler</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<string name="guideline">guideline</string>
+    <string name="guideline2">guideline2</string>
+    <string name="guideline3">guideline3</string>
+    <string name="guideline4">guideline4</string>
+    <string name="editText1">editText1</string>
+    <string name="editText2">editText2</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="button4">button4</string>
+    <string name="button5">button5</string>
+    <string name="button6">button6</string>
+    <string name="button7">button7</string>
+    <string name="button8">button8</string>
+    <string name="button9">button9</string>
+    <string name="button0">button0</string>
+    <string name="buttonPlus">buttonPlus</string>
+    <string name="buttonSub">buttonSub</string>
+    <string name="buttonDev">buttonDev</string>
+    <string name="buttonMul">buttonMul</string>
+    <string name="buttonDel">buttonDel</string>
+    <string name="buttonResult">buttonResult</string>
+    <string name="buttonDot">buttonDot</string>-->
+
+
+</resources>
